@@ -107,22 +107,22 @@ at Penn State Pattee Library.
 +------------+------------------------+----------+
 | 1          | Stepper Motor Driver   | $14.0    |
 +------------+------------------------+----------+
-| 1          | Thread Rod             | $.0      |
+| 1          | Thread Rod             | $6.0      |
 +------------+------------------------+----------+
 | 1          | Rod                    | $0.0     |
 +------------+------------------------+----------+
 | 2          | Nut                    | $0.0     |
 +------------+------------------------+----------+
-| Total      |                        | $78.75   |
+| Total      |                        | $84.75   |
 +------------+------------------------+----------+
 
 Note: Those labeled as $0 are available in lab.
 
-|image3|
+.. figure:: image/4.png
 
 **Figure 4**. 3D geometry of structure elements
 
-|image4|
+.. figure:: image/5.png
 
 **Figure 5.** Assembled syringe pump system
 
@@ -143,13 +143,13 @@ the interface of Arduino Series Monitor, in which 9 injection/refill
 modes are listed for reference. Particualarily, for long-term
 injection-refill process, mode 9 is selected.
 
-|image5|
+.. figure:: image/6.png
 
 **Figure 6**. The Ardunio Redboard and Stepper Motor Driver together are
 used to send injection/refill command to the physical hardware (*i.e.,*
 Stepper Motor) to drive the syringe
 
-|image6|
+.. figure:: image/7.png
 
 **Figure 7.** Interface of syringe pump control system
 
