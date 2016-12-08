@@ -56,7 +56,7 @@ simplification in which the number of pump is reduced to one and the
 injection/refill switch is performed by accommodation of one-way valves
 **(Figure 2b)**.
 
-|imag
+.. figure:: image/2.png
 
 **Figure 2. (a)** Ideal version of syringe pump system as analogue to
 realistic problem **(b)** Simplified prototype of syringe pump system
@@ -74,7 +74,7 @@ elements (**Figure 4** and **5**). The structure elements were designed
 by an online open-source CAD (Onshape) and were 3D printed by MakerBot
 at Penn State Pattee Library.
 
-|image2|
+.. figure:: image/3.png
 
 **Figure 3**. Major hardware component of syringe pump system
 
