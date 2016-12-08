@@ -38,7 +38,7 @@ injection may be disrupted because the tubing has to be unplugged from
 the running system and connected to reservoir for refilling (**Figure
 1**).
 
-|image0|
+.. figure:: image/1.png
 
 **Figure 1.** Schematic graph showing realistic problem: two pumps (C1
 and C2) alternatively inject/refill the fluid.
@@ -56,7 +56,7 @@ simplification in which the number of pump is reduced to one and the
 injection/refill switch is performed by accommodation of one-way valves
 **(Figure 2b)**.
 
-|image1|
+|imag
 
 **Figure 2. (a)** Ideal version of syringe pump system as analogue to
 realistic problem **(b)** Simplified prototype of syringe pump system
