@@ -79,7 +79,6 @@ at Penn State Pattee Library.
 **Figure 3**. Major hardware component of syringe pump system
 
 **Table 1**. Material and Budget
-
 +------------+------------------------+----------+
 | Quantity   | Item                   | Cost     |
 +============+========================+==========+
@@ -115,7 +114,6 @@ at Penn State Pattee Library.
 +------------+------------------------+----------+
 | Total      |                        | $84.75   |
 +------------+------------------------+----------+
-
 Note: Those labeled as $0 are available in lab.
 
 .. figure:: image/4.png
