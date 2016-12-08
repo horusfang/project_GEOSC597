@@ -79,6 +79,7 @@ at Penn State Pattee Library.
 **Figure 3**. Major hardware component of syringe pump system
 
 **Table 1**. Material and Budget
+
 +------------+------------------------+----------+
 | Quantity   | Item                   | Cost     |
 +============+========================+==========+
@@ -106,15 +107,17 @@ at Penn State Pattee Library.
 +------------+------------------------+----------+
 | 1          | Stepper Motor Driver   | $14.0    |
 +------------+------------------------+----------+
-| 1          | Thread Rod             | $6.0      |
+| 1          | Thread Rod             | $.0      |
 +------------+------------------------+----------+
 | 1          | Rod                    | $0.0     |
 +------------+------------------------+----------+
 | 2          | Nut                    | $0.0     |
 +------------+------------------------+----------+
-| Total      |                        | $84.75   |
+| Total      |                        | $78.75   |
 +------------+------------------------+----------+
+
 Note: Those labeled as $0 are available in lab.
+
 
 .. figure:: image/4.png
 
